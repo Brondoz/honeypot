@@ -1,2 +1,2 @@
 # honeypot
-a small and very simplistic honypot
+A small and very simplistic honypot
